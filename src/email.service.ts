@@ -15,7 +15,7 @@ export class EmailService {
       subject: '¡Recordatorio de prueba!',
       template: 'test',
       context: {
-        link: 'https://youtu.be/unoRzmIifew?si=zxmRZQtX2AcipYfA',
+        link: 'https://youtu.be/p-QOLsypsnQ?si=t2xsm2JsN5rU4jsx',
       },
     });
     this.logger.log('Correo enviado a arielmzametal@gmail.com');

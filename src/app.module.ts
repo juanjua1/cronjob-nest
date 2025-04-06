@@ -13,7 +13,7 @@ import { HandlebarsAdapter } from '@nestjs-modules/mailer/dist/adapters/handleba
         service: 'gmail',
         auth: {
           user: 'rodriguezjuanjua@gmail.com',  // Tu correo
-          pass: 'oyqu mxkt abio bdbq',         // Tu contraseña (NO recomendado en producción)
+          pass: 'oyqu mxkt abio bdbq',         
         },
       },
       template: {
